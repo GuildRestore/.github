@@ -1,4 +1,5 @@
-![Guild Restore](/profile/small.png)
+![Guild Restore](/light/large.png#gh-dark-mode-only)![Guild Restore](/dark/large.png#gh-light-mode-only)
+
 
 Guild Restore is a subdivision of [Orbitus](https://orbitus.systems). 
 
