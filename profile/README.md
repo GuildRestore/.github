@@ -1,4 +1,4 @@
-![Guild Restore](small.png)
+![Guild Restore](/profile/small.png)
 
 Guild Restore is a subdivision of [Orbitus](https://orbitus.systems). 
 
