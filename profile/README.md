@@ -1,5 +1,5 @@
-![Guild Restore](/light/large.png#gh-dark-mode-only)![Guild Restore](/dark/large.png#gh-light-mode-only)
-
+<img width="200" src="https://github.com/GuildRestore/.github/blob/main/light/large.png#gh-dark-mode-only" alt="">
+<img width="200" src="https://github.com/GuildRestore/.github/blob/main/dark/large.png#gh-light-mode-only" alt="">
 
 Guild Restore is a subdivision of [Orbitus](https://orbitus.systems). 
 
