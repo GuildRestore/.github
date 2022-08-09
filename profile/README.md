@@ -11,5 +11,5 @@ As of late November 2021 we have been in a closed beta. If you're interested in 
 
 ### Join our community!
 
-For more information on the Guild Restore project you can join our discord at; https://discord.guildre.store/.
-Our website can be found at; https://guildrestore.com/
+For more information on the Guild Restore project you can join our discord at; https://discord.guild-restore.com/.
+Our website can be found at; https://guild--restore.com/
