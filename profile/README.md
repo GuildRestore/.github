@@ -1,7 +1,7 @@
 <img width="200" src="https://github.com/GuildRestore/.github/blob/main/light/large.png#gh-dark-mode-only" alt="">
 <img width="200" src="https://github.com/GuildRestore/.github/blob/main/dark/large.png#gh-light-mode-only" alt="">
 
-Guild Restore was recently renamed to Guild Mergers, and is a subdivision of [Orbitus](https://orbitus.systems). 
+Guild Restore was recently renamed to Guild Mergers, and is a subdivision of [Orbitus](https://orbitus.ca). 
 
 ### Secure your community!
 
